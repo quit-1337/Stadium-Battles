@@ -1,3 +1,5 @@
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/9ad6be9d-a923-4dbd-9190-2fbe0e2c881a" />
+
 # Stadium Battles v1.0.2
 
 **Stadium Battles** is a Pokémon Gen 1 / Pokémon Stadium hybrid mod for **Gen1Recomp**.
