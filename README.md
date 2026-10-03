@@ -109,8 +109,8 @@ Use **GO BACK** when you want to return to Gen 1.
 
 Stadium Battles would not be possible without:
 
-- **Gen1Recomp** by bryanthaboi — the Gen 1 recompilation/runtime that Stadium Battles integrates with
-- **PokemonStadiumRecomp** by mstan — the Pokémon Stadium recompilation that powers the 3D battle side of the mod
+- **[Gen1Recomp](https://github.com/bryanthaboi/gen1recomp)** by [bryanthaboi](https://github.com/bryanthaboi) — the Gen 1 recompilation/runtime that Stadium Battles integrates with
+- **[PokemonStadiumRecomp](https://github.com/mstan/PokemonStadiumRecomp)** by [mstan](https://github.com/mstan) — the Pokémon Stadium recompilation that powers the 3D battle side of the mod
 
 Huge thanks to the developers and contributors behind both projects for making Stadium Battles possible.
 
