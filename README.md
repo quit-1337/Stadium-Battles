@@ -39,12 +39,6 @@ Source code:
 
 ---
 
-<img width="1914" height="1003" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/a1410b1d-a82d-4722-96b5-9e8035f6091e" />
-<img width="833" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/6d67ffb8-b204-4056-bc64-aed18b24caf6" />
-<img width="818" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/7a647244-9ba5-4b1a-8073-71ca860f71a5" />
-<img width="930" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/fcc6af23-6b54-4989-b5cf-086cc46b6177" />
-<img width="1166" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/4bde491f-39f3-4322-b3c3-2f4ae1ebfe83" />
-
 ## Install
 
 **Windows 64-bit only.**
@@ -123,3 +117,11 @@ Stadium Battles does not include Pokémon game ROMs. Users must provide their ow
 Stadium Battles is an unofficial fan-made project and is not affiliated with or endorsed by Nintendo, Game Freak, Creatures, or The Pokémon Company.
 
 Pokémon and related names and properties belong to their respective owners.
+
+<img width="1914" height="1003" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/a1410b1d-a82d-4722-96b5-9e8035f6091e" />
+<img width="833" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/6d67ffb8-b204-4056-bc64-aed18b24caf6" />
+<img width="818" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/7a647244-9ba5-4b1a-8073-71ca860f71a5" />
+<img width="930" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/fcc6af23-6b54-4989-b5cf-086cc46b6177" />
+<img width="1166" height="627" alt="Stadium Battles gameplay" src="https://github.com/user-attachments/assets/4bde491f-39f3-4322-b3c3-2f4ae1ebfe83" />
+
+
