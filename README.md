@@ -198,7 +198,10 @@ Stadium Battles would not be possible without:
 
 Huge thanks to the developers and contributors behind both projects for making Stadium Battles possible.
 
-SPECIAL THANKS TO TESTERS: sickflip, Quinn, parafwen, Kai
+
+
+SPECIAL THANKS:
+TESTERS: sickflip, Quinn, parafwen, Kai
 
 See `COPYING-Stadium.txt` for the PokemonStadiumRecomp licensing information included with the release.
 
