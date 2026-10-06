@@ -57,7 +57,7 @@ Then:
 2. Open **MODS** in Gen1Recomp and import the ZIP.
 3. Supply your Pokémon Stadium USA v1.0 ROM when the launcher asks for the mod's required ROM.
 4. Start Pokémon Red, Blue, or Yellow.
-5. Wait while the first launch prepares the Stadium runtime automatically.
+5. Wait while the first launch quickly prepares the Stadium runtime automatically and play.
 
 ## Pokémon Stadium ROM
 
