@@ -6,7 +6,7 @@
 
 Stadium Battles seamlessly connects Gen1Recomp with Pokémon Stadium, letting you battle with your Gen 1 team and play the full Stadium experience with instant connectivity between both games.
 
-Keep playing the Gen 1 overworld, story, and progression in Gen1Recomp, with battles and encounters handled in Pokémon Stadium. When a battle ends, you return directly to Gen 1. You can also open the full Stadium game from the START menu and use your Gen 1 Pokémon in Stadium.
+Play the Gen 1 overworld, story, and progression in Gen1Recomp, with battles and encounters handled in Pokémon Stadium. When a battle ends, you return directly to Gen 1. You can also open the full Stadium game from the START menu and use your Gen 1 Pokémon in Stadium.
 
 Version **v1.0.19** supports Pokémon Red, Blue, and Yellow.
 
